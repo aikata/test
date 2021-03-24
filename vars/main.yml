@@ -1,0 +1,3 @@
+---
+# vars file for test
+indices: ["logstash-*", "filebeat-*", "logs-*", "metricbeat-*", "metrics-*", ".monitoring-*"]
